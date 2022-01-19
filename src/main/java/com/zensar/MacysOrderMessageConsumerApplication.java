@@ -38,7 +38,7 @@ public class MacysOrderMessageConsumerApplication {
 	  private ApiInfo getApiInfo() {
 	  
 	  return new ApiInfo("Order Consumer Rest API Documentation",
-	  "Order Consumer APIs released by Zensar Ltd", "2.4",
+	  "Order Consumer APIs", "2.4",
 	  "https://zensar.com/termsofservice", 
 	  new Contact("Gayatri","http://Gayatri.com","gayatri@zenar.com"), 
 	  "GPL",

@@ -4,6 +4,9 @@ import java.io.Serializable;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
+import io.swagger.annotations.ApiModel;
+
+@ApiModel("XMLOrder Model")
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class XmlOrderDto implements Serializable{
 	

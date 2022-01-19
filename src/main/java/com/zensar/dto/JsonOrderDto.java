@@ -1,6 +1,8 @@
 package com.zensar.dto;
 
+import io.swagger.annotations.ApiModel;
 
+@ApiModel("JsonOrder Model")
 public class JsonOrderDto {
 	
 	
